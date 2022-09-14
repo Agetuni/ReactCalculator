@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import calculate from './logic/calculate';
 
 const Calculator = () => {
-  const [total, setTotal] = useState(null);
   const [next, setNext] = useState(null);
   const [operation, setOperation] = useState(null);
+  const [total, setTotal] = useState(null);
   const [err, setErr] = useState(null);
   const handleClick = (e) => {
     const result = calculate(
