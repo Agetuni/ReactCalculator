@@ -1,0 +1,9 @@
+nav {
+    display:  flex;
+    justify-content: space-around;
+}
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
