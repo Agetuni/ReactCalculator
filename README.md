@@ -7,7 +7,7 @@
 - React
 
 ## Live Demo
-(Netlify link)[https://agetunireactcalc.netlify.app/Quote]
+[Netlify link](https://agetunireactcalc.netlify.app/Quote)
 
 ## Getting Started
 
